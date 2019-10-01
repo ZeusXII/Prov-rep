@@ -1,0 +1,6 @@
+c:\users\william.rahn\documents\visual studio 2017\Projects\ProvKlasser\ProvKlasser\obj\Debug\ProvKlasser.csprojResolveAssemblyReference.cache
+c:\users\william.rahn\documents\visual studio 2017\Projects\ProvKlasser\ProvKlasser\bin\Debug\ProvKlasser.exe.config
+c:\users\william.rahn\documents\visual studio 2017\Projects\ProvKlasser\ProvKlasser\bin\Debug\ProvKlasser.exe
+c:\users\william.rahn\documents\visual studio 2017\Projects\ProvKlasser\ProvKlasser\bin\Debug\ProvKlasser.pdb
+c:\users\william.rahn\documents\visual studio 2017\Projects\ProvKlasser\ProvKlasser\obj\Debug\ProvKlasser.exe
+c:\users\william.rahn\documents\visual studio 2017\Projects\ProvKlasser\ProvKlasser\obj\Debug\ProvKlasser.pdb
